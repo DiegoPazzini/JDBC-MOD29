@@ -1,4 +1,4 @@
-#JDBC-MOD29
+JDBC-MOD29
 
 O projeto é uma aplicação Java que realiza operações CRUD (Create, Read, Update, Delete) em entidades Cliente e Produto, persistindo os dados em um banco de dados PostgreSQL. Ele é composto por três principais pacotes: conexaoc, dao, e domain.
 
